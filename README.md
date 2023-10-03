@@ -1,5 +1,7 @@
 # Photo-Lightbox
 
+<img src="https://github.com/PeNgzzzzz/Photo-Lightbox/blob/main/Preview.png" alt="Preview" align="center" width="auto" height="auto" />
+
 ## Overview
 
 This project is a digital photo lightbox application built using Kotlin and JavaFX. The application allows users to browse and select images from their computer, place them on-screen, and perform various transformations like scaling and rotation.
